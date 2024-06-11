@@ -6,3 +6,5 @@ utils.py
 main_WC.py  
 config.py  
 
+[업데이트 사항]  
+data.md를 추가했습니다. 2024-06-12
