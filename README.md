@@ -6,3 +6,5 @@ utils.py
 main_WC.py  
 config.py  
 
+[data 추가]
+csv파일 추가!!  
